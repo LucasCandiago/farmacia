@@ -1,0 +1,1 @@
+<a class='blantershow-chat' href='https://api.whatsapp.com/send?phone=555122005658' target="_blank" title='Show Chat'><i class='fab fa-whatsapp'></i></a>

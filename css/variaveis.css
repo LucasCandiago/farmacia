@@ -1,0 +1,119 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap");
+
+.bg-fixed {
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-attachment: fixed !important;
+  background-size: cover;
+}
+
+.bg-cover {
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}
+
+.bg-contain {
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: contain !important;
+}
+
+.black-mask {
+  background-color: rgba(0, 0, 0, 0.542);
+  width: 100%;
+}
+
+.bg-ciano {
+  background-color: #00b4ac;
+}
+
+.bg-laranja {
+  background-color: #f27021;
+}
+
+.roboto {
+  font-family: "Roboto", sans-serif;
+}
+
+.cursiva {
+  font-family: "Dancing Script", cursive;
+}
+
+.text-ciano {
+  color: #00b4ac;
+}
+
+.text-lilas {
+  color: #bf68df;
+}
+
+.text-rosa {
+  color: rgb(232, 188, 153);
+}
+
+.text-white-opacity {
+  color: rgba(255, 255, 255, 0.801) !important;
+}
+
+.text-azul-bebe {
+  color: rgb(104, 142, 160);
+}
+
+.text-laranja {
+  color: #f27021;
+}
+
+.text-cinza {
+  color: rgba(56, 56, 56, 0.502);
+}
+
+.fw-light {
+  font-weight: 300;
+}
+
+.fw-regular {
+  font-weight: 400;
+}
+
+.fw-bold {
+  font-weight: 600;
+}
+
+.w-60 {
+  width: 60% !important;
+}
+
+.w-70 {
+  width: 75% !important;
+}
+
+.w-80 {
+  width: 80% !important;
+}
+
+.w-90 {
+  width: 90% !important;
+}
+
+.disabled {
+  display: none;
+}
+
+.btn-redondo {
+  border-radius: 30px !important;
+  font-size: 1em !important;
+}
+
+.btn-success {
+  color: #fff;
+  background-color: #0eb714;
+  border-color: #0eb714;
+}
+
+.btn-success:hover {
+  color: #ffffff;
+  background-color: #f27021;
+  border-color: #4f5fcd;
+}

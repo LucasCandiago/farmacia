@@ -1,0 +1,154 @@
+/* header  */
+
+#topo a {
+    color: #00B4AC;
+    font-size: 1.2em;
+    margin: 2.5%;
+    font-weight: 400;
+}
+
+#topo .icone {
+    font-size: 1.6em !important;
+}
+
+#topo .icone:hover {
+    color: #F26E20;
+}
+
+#banner h1 {
+    font-size: 77px;
+    font-weight: 900;
+}
+
+#banner p {
+    font-size: 34px;
+    font-weight: 700;
+}
+
+#banner a {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.frase-topo {
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 1;
+    margin-top: -3% !important;
+}
+
+.nav-mobile {
+    display: none !important;
+}
+
+/* PRODUTOS */
+
+#produtos h2 {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+#produtos p {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+#produtos {
+    line-height: 0.5;
+}
+
+.icon-product {
+    font-size: 65px;
+}
+
+.produtos p {
+    font-size: 30px !important;
+    line-height: 1.5;
+}
+
+.produto:hover {
+    background-color: #f27021;
+}
+
+/* quem somos */
+
+#quemsomos h2 {
+    font-size: 35px;
+    font-weight: 700;
+}
+
+#quemsomos p {
+    font-size: 20px;
+}
+
+.check {
+    width: 33%;
+}
+
+.check h3 {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+/* Contato  */
+
+.where {
+    line-height: 0;
+}
+
+#contato .where h2 {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+#contato .where p {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+#contato .frase-azul {
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: -0.3%;
+}
+
+#contato .rodape h1 {
+    font-size: 35px;
+    font-weight: 700;
+}
+
+#contato .rodape p {
+    font-size: 25px;
+}
+
+#contato .icone {
+    font-size: 37px;
+}
+
+#contato a .icone2 {
+    width: 50px;
+    height: 50px;
+}
+
+#contato a .icone2:hover {
+    color: #00B4AC;
+}
+
+
+@media (min-width: 1920px) {
+    .corpo {
+        max-width: 70% !important;
+        margin: auto;
+    }
+}
+
+@media (min-width: 2560px) {
+    .corpo {
+        max-width: 60% !important;
+        margin: auto;
+    }
+
+    .frase-topo {
+        margin-top: -2% !important;
+    }
+}

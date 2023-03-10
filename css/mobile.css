@@ -1,0 +1,51 @@
+@media (max-width: 900px) {
+    .btn-whats {
+        width: 100% !important;
+        margin-bottom: 3%;
+    }
+
+    #produtos {
+        line-height: 1;
+    }
+
+    .frase-topo {
+        font-size: 17px;
+        width: 90% !important;
+    }
+
+    #banner h1 {
+        font-size: 35px;
+        font-weight: 900;
+    }
+    
+    #banner p {
+        font-size: 32px;
+        font-weight: 700;
+    }
+
+    .where {
+        line-height: 1;
+        width: 80%;
+        margin: auto;
+    }
+
+    .texto-banner {
+        width: 100% !important;
+    }
+
+    #banner {
+        background-attachment: unset !important;
+    }
+
+    .navbar-desk {
+        display: none !important;
+    }
+
+    .icone-nav {
+        font-size: 35px !important;
+    }
+
+    .nav-mobile {
+        display: unset !important;
+    }
+}
